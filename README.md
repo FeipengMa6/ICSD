@@ -1,2 +1,2 @@
-# MCDG
-Pytorch implementation for codes in "Text-only Image Captioning with Multi-context Data Generation"
+# ICSD
+Pytorch implementation for "Image Captioning with Multi-Context Synthetic Data"
